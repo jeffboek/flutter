@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 1.2'
 
 
 # front-end gems
-gem 'flatui-rails'
+gem 'bootstrap-sass'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
